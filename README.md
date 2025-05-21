@@ -1,11 +1,5 @@
 # 🛒 Customer Churn Prediction in E-Commerce
 
-**Author**: Armaan Haque  
-**Institution**: University at Buffalo – Department of Industrial and Systems Engineering  
-**Date**: April 2025
-
-## 📌 Overview
-
 Customer churn is a critical issue in the e-commerce industry, as retaining customers is far more cost-effective than acquiring new ones. This project leverages machine learning techniques to predict which customers are likely to churn, helping businesses implement proactive retention strategies.
 
 ## 📊 Dataset
